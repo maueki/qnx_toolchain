@@ -1,0 +1,1 @@
+$ ./autogen.sh --host=x86_64-pc-nto-qnx7.0.0 --build=x86_64-linux --with-sysroot=$SDKTARGETSYSROOT --prefix=$SDKTARGETSYSROOT/usr
